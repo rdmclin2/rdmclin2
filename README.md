@@ -5,7 +5,7 @@
 | ![][h-design]   | ![][design-sketch] ![][design-figma] ![][design-blender]  ![][design-stable-diffusion] ![][design-live2d]                                                                                 |
 | :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![][h-frontend] | ![][frontend-react] ![][frontend-nextjs] ![][frontend-zustand] ![][frontend-react-spring] ![][frontend-antd] ![][frontend-styled] ![][frontend-umi] ![][frontend-dumi] ![][frontend-electron] ![][frontend-three] ![][frontend-react-three]     |
-| ![][h-backend]  | ![][backend-node]  ![][backend-sqlite] ![][backend-mongodb] ![][backend-nginx] ![][backend-egg]  ![][backend-prisma]                                                           |
+| ![][h-backend]  | ![][backend-node]  ![][backend-sqlite] ![][backend-mongodb] ![][backend-nginx] ![][backend-egg]                                                    |
 | ![][h-devops]   |  ![][ops-docker] ![][ops-github-action] ![][ops-semantic-release] ![][ops-gitmoji]  ![][ops-vercel] ![][ops-prettier] ![][ops-eslint] ![][ops-stylelint] ![][ops-commitlint] ![][ops-changelog]  |
 | ![][h-ide]      | ![][ide-webstorm] ![][ide-vscode] ![][ide-sublime]                                                                                                                                      |
 | ![][h-os]       | ![][os-mac] ![][os-win] ![][os-ubuntu]                                                                                                                                                    |
