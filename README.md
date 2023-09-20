@@ -1,3 +1,11 @@
 ### Hi there 👋
 
-![Metrics](/github-metrics.svg)
+<details>
+  <summary>
+    <b>👀 Social Media</b>
+  </summary>
+
+| ![](/assets/left.svg) | ![](/assets/right.svg)|
+| --- | --- |
+
+</details>
