@@ -20,11 +20,21 @@
 
 ---
 
-<b>👀 Social Media</b>
+<b>❤️ Social Media</b>
 
 | ![](/assets/left.svg) | ![](/assets/right.svg)|
 | --- | --- |
 
+<details>
+  <summary>👀 github stats</summary>
+
+  <b></b>
+
+![Rdmclin2's github stats](https://github-readme-stats.vercel.app/api?username=rdmclin2&show_icons=true&theme=dracula) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmclin2&layout=compact&theme=dracula)
+ 
+</details>
 
 
 <!-- SHIELD GROUP -->
