@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/M90mJvfWfd5mbUuULX/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm Rdmclin2</h1>
 
-<p align="center"> <strong>Frontend</strong> engineer, Hangzhou, China. Know me more at my <a href="https://www.yuque.com/jianxu" target="_blank"> Gigital Garden.</a></p>
+<p align="center"> <strong>Frontend</strong> engineer, Hangzhou, China. Know me more at my <a href="https://www.yuque.com/jianxu" target="_blank"> Digital Garden.</a></p>
 
 ---
 
